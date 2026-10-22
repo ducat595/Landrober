@@ -1,0 +1,12 @@
+# Account sessions and vehicle data stay local.
+.state/
+**/.state/
+.venv/
+**/.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.DS_Store
+
